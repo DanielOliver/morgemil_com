@@ -12,8 +12,6 @@ class App extends Component {
         </div>
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
-          <br/> Here's an automatically deployed change!
-          <br/> Testing NPM RUN BUILD.
         </p>
       </div>
     );
